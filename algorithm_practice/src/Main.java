@@ -1,13 +1,12 @@
-import java.util.*;
+import java.math.BigInteger;
+import java.util.Scanner;
 
-/*
-* @Author:dawei
-* @Describe:第二题
-* @Date:下午9:04 19-9-26
-*/
 public class Main {
     public static void main(String[] args) {
-
-
+        String s = "324_D|182_B|331_D|273_A|113_D|327_A|201_C|17_A|55_B|319_B|178_A|245_A|138_B|46_B|239_B|223_B|152_B|22_C|37_A|248_B|143_A|161_C|206_A|336_D|108_D|179_C|290_B|100_C|237_B|150_C|230_B|258_C|24_A|57_C|153_B|20_C|272_A|211_A|61_C|30_D|524_A,B,C,D|356_A,B,C,D|475_A,B,C,D|423_A,B,C,D|430_A,B,C,D|393_A,B,C,D|538_C,D|554_A,B,C,D|595_A,B,C|514_A,B,C,D|362_A,B,C,D|500_A,B,D|490_A,C|578_A,B,C|463_A,B,C,D|523_A,C|392_A,B,D|483_A,C|570_A,B,C,D|456_A,B,C|830_错|988_错|733_错|707_错|945_对|600_对|995_错|825_错|982_对|691_错|930_对|808_对|690_对|901_错|676_对|837_对|944_对|771_错|747_对|821_错|826_错|660_对|950_对|994_对|958_错|721_对|856_错|915_错|863_错|907_对|601_对|964_错|889_对|961_对|913_对|605_对|834_对|820_错|757_对|860_对";
+        String[] split = s.split("|");
+        for (int i = 0; i < split.length; i++) {
+            System.out.print(split[i]+" ");
+        }
     }
 }

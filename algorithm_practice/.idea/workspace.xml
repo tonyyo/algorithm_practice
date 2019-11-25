@@ -2,9 +2,139 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d86c047f-a5ec-48ba-ad64-ba35fcf69b6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../hadoop-book" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAfterOfAdvanceAlgorithm/区间k最小.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAfterOfAdvanceAlgorithm/固定和元素对.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAfterOfAdvanceAlgorithm/子矩阵的取值范围.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAfterOfAdvanceAlgorithm/子矩阵问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAfterOfAdvanceAlgorithm/对称字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAfterOfAdvanceAlgorithm/序列乘方.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAfterOfAdvanceAlgorithm/数组和窗口.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAfterOfAdvanceAlgorithm/整数查询.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAfterOfAdvanceAlgorithm/新汉诺塔.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAfterOfAdvanceAlgorithm/无限递归字符串查询.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAfterOfAdvanceAlgorithm/最长公共子序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassroomPractice/Sonam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassroomPractice/forceZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassroomPractice/倒置个数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassroomPractice/和最大的连续降序字符.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassroomPractice/如何花最少的钱购买蔬菜.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassroomPractice/按照要求保留数组元素使得和最大.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassroomPractice/数字重组问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassroomPractice/数组查询.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassroomPractice/是否成环.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassroomPractice/有九个因素的数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassroomPractice/素数和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassroomPractice/计数排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassroomPractice/订单问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassroomPractice/距离问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassroomPractice/链表区间逆序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassroomPractice/非递归合并排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassroomPractice/非递归快排.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/google/全排列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/google/冒泡排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/google/合并排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/google/堆排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/google/希尔排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/google/快速排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/google/插入排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/google/选择排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/google/颜色球.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/一_单例模式/单例懒汉模式.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/一_单例模式/单例饿汉模式.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/七_桥接模式/BagManage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/三_工厂与抽象工厂模式/工厂模式.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/三_工厂与抽象工厂模式/抽象工厂模式.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/九_外观模式/WyImage/Specialty11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/九_外观模式/WyImage/Specialty12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/九_外观模式/WyImage/Specialty13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/九_外观模式/WyImage/Specialty14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/九_外观模式/WyImage/Specialty21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/九_外观模式/WyImage/Specialty22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/九_外观模式/WyImage/Specialty23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/九_外观模式/WyImage/Specialty24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/九_外观模式/WySpecialtyFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/二_原型模式/原型模式.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/二_原型模式/原型模式_带原型管理器.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/二十_访问者模式/Picture/朱熹铜像.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/二十_访问者模式/Picture/纸币.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/二十_访问者模式/Picture/讲学图.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/二十_访问者模式/Picture/铜币.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/二十_访问者模式/VisitorPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/二十_访问者模式/VisitorProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/二十一_备忘录模式/DatingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/二十一_备忘录模式/MementoPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/二十一_备忘录模式/Photo/PrototypeMemento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/二十一_备忘录模式/Photo/四大美女.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/二十一_备忘录模式/Photo/杨玉环.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/二十一_备忘录模式/Photo/王昭君.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/二十一_备忘录模式/Photo/空白.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/二十一_备忘录模式/Photo/西施.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/二十一_备忘录模式/Photo/貂蝉.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/二十二_解释器模式/InterpreterPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/五_代理模式/代理模式.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/八_装饰模式/Morrigan0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/八_装饰模式/Morrigan1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/八_装饰模式/Morrigan2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/八_装饰模式/MorriganAensland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/六_适配器模式/适配器模式_motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/六_适配器模式/适配器模式_双向.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/六_适配器模式/适配器模式_类.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/六_适配器模式/适配者模式_对象.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十_享元模式/FlyweightPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十_享元模式/WzqGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十一_组合模式/ShoppingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十七_观察者模式/BellEventTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十七_观察者模式/CrudeOilFutures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十七_观察者模式/RMBrateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十三_策略模式/BraisedCrabs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十三_策略模式/CrabCookingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十三_策略模式/SteamedCrabs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十九_迭代器模式/IteratorPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十九_迭代器模式/Picture/卧龙谷.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十九_迭代器模式/Picture/彩虹桥.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十九_迭代器模式/Picture/思溪延村.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十九_迭代器模式/Picture/晓起村.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十九_迭代器模式/Picture/李坑.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十九_迭代器模式/Picture/江湾.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十九_迭代器模式/Picture/篁岭.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十九_迭代器模式/Picture/菊径村.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十九_迭代器模式/PictureIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十二_模板方法模式/HookTemplateMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十二_模板方法模式/StudyAbroadProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十五_责任链模式/LeaveApprovalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十八_中介者模式/DatingPlatform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十八_中介者模式/MediatorPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十八_中介者模式/SimpleMediatorPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十六_状态模式/FlyweightStatePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十六_状态模式/ScoreStateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十六_状态模式/ThreadStateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十四_命令模式/ChangFen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十四_命令模式/CompositeCommandPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十四_命令模式/CookingCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十四_命令模式/HeFen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/十四_命令模式/HunTun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/四_建造者模式/建造者模式.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm_practice/ClassroomPractice/Sort_by_number_of_values$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm_practice/ClassroomPractice/Sort_by_number_of_values.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm_practice/ClassroomPractice/miniNumOfSwap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm_practice/ClassroomPractice/numOfReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm_practice/ClassroomPractice/relativeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm_practice/ClassroomPracticeOfSomebody/SortByNumberOfValues$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm_practice/ClassroomPracticeOfSomebody/SortByNumberOfValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm_practice/ClassroomPracticeOfSomebody/numOfReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm_practice/ClassroomPracticeOfSomebody/relative_sort$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm_practice/ClassroomPracticeOfSomebody/relative_sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm_practice/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm_practice/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassAfterOfAdvanceAlgorithm/ClassAfterHomeworkOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassAfterOfAdvanceAlgorithm/第一次课后作业六道题.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassroomPractice/Sort_by_number_of_values.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassroomPractice/按照数值个数排序.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassroomPractice/miniNumOfSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassroomPractice/最小交换次数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassroomPractice/numOfReverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassroomPractice/relativeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassroomPractice/相对排序.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassroomPracticeOfSomebody/SortByNumberOfValues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassroomPracticeOfSomebody/numOfReverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassroomPracticeOfSomebody/relative_sort.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,28 +167,97 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ClassroomPracticeOfSomebody/numOfReverse.java">
+        <entry file="file://$PROJECT_DIR$/src/设计模式/十七_观察者模式/BellEventTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+            <state relative-caret-position="639">
+              <caret line="65" column="42" lean-forward="true" selection-start-line="65" selection-start-column="42" selection-end-line="65" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ClassroomPractice/numOfReverse.java">
+        <entry file="file://$PROJECT_DIR$/src/设计模式/十八_中介者模式/MediatorPattern.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+            <state relative-caret-position="189">
+              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/设计模式/十八_中介者模式/DatingPlatform.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="32" column="61" lean-forward="true" selection-start-line="32" selection-start-column="61" selection-end-line="32" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/设计模式/十八_中介者模式/SimpleMediatorPattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="55" column="85" selection-start-line="55" selection-start-column="85" selection-end-line="55" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/设计模式/十九_迭代器模式/IteratorPattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-387">
+              <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/设计模式/二十_访问者模式/VisitorPattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="88" column="54" selection-start-line="88" selection-start-column="54" selection-end-line="88" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/设计模式/二十一_备忘录模式/MementoPattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/设计模式/二十二_解释器模式/InterpreterPatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/设计模式/二十_访问者模式/VisitorProducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-540">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/设计模式/十九_迭代器模式/PictureIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="531">
+              <caret line="143" column="37" selection-start-line="143" selection-start-column="19" selection-end-line="143" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,9 +277,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>lineAee</find>
-      <find>real</find>
-      <find>System.out.print</find>
       <find>compare</find>
       <find>comparator&lt;T&gt;</find>
       <find>comparator</find>
@@ -98,12 +294,24 @@
       <find>listaycopy</find>
       <find>size</find>
       <find>sortArr</find>
+      <find>linkedHashMap</find>
+      <find>Entry</find>
+      <find>数组</find>
+      <find>Main</find>
+      <find>President</find>
+      <find>Product</find>
+      <find>ConcreteFactory2</find>
+      <find>Adaptee</find>
+      <find>src/facade</find>
+      <find>Picture</find>
+      <find>src/iterator/Picture</find>
+      <find>src/memento/Photo</find>
+      <find>src/visitor/Picture</find>
     </findStrings>
     <replaceStrings>
       <replace>lineAee</replace>
       <replace>lineArr</replace>
       <replace>noRepeatedList</replace>
-      <replace>TreeMap</replace>
       <replace>tm</replace>
       <replace>put</replace>
       <replace>set</replace>
@@ -113,6 +321,19 @@
       <replace>list</replace>
       <replace>size()</replace>
       <replace>sortList</replace>
+      <replace>TreeMap</replace>
+      <replace>Map.Entry</replace>
+      <replace>列表</replace>
+      <replace>Sonam</replace>
+      <replace>president</replace>
+      <replace>product</replace>
+      <replace>concreteFactory2</replace>
+      <replace>target</replace>
+      <replace>adptee</replace>
+      <replace>$PROJECT_DIR$/src/设计模式/九_外观模式</replace>
+      <replace>$PROJECT_DIR$/src/设计模式/十九_迭代器模式/Picture</replace>
+      <replace>$PROJECT_DIR$/src/设计模式/二十一_备忘录模式/Photo</replace>
+      <replace>$PROJECT_DIR$/src/设计模式/二十_访问者模式/Picture</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -121,32 +342,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Jian_Zhi/package-info.java" />
-        <option value="$PROJECT_DIR$/src/Jian_Zhi/Main.java" />
-        <option value="$PROJECT_DIR$/src/ClassOfAdvanceAlgorithm/ClassOne.java" />
-        <option value="$PROJECT_DIR$/src/Jian_Zhi/findIntegerInTwoDimensionalArray.java" />
-        <option value="$PROJECT_DIR$/src/Jian_Zhi/replaceSpace.java" />
-        <option value="$PROJECT_DIR$/src/Jian_Zhi/PrintLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/ClassroomPracticeOfGaoYuan/three.java" />
-        <option value="$PROJECT_DIR$/src/ClassroomPracticeOfGaoYuan/four.java" />
-        <option value="$PROJECT_DIR$/src/ClassroomPracticeOfGaoYuan/two.java" />
-        <option value="$PROJECT_DIR$/src/ClassroomPracticeOfGaoYuan/one.java" />
-        <option value="$PROJECT_DIR$/src/google/TreeSetOverrideCompactor.java" />
-        <option value="$PROJECT_DIR$/src/google/TreeMapOverrideCompactor.java" />
-        <option value="$PROJECT_DIR$/src/ClassroomPracticeOfGaoYuan/SortByNumberOfValues.java" />
-        <option value="$PROJECT_DIR$/src/ClassroomPracticeOfSomebody/reverseNums.java" />
-        <option value="$PROJECT_DIR$/src/google/sortedMap2.java" />
-        <option value="$PROJECT_DIR$/src/ClassroomPractice/Sort_by_number_of_values.java" />
-        <option value="$PROJECT_DIR$/src/google/HashMap.java" />
-        <option value="$PROJECT_DIR$/src/google/sortedMap1.java" />
-        <option value="$PROJECT_DIR$/src/google/hashMap.java" />
-        <option value="$PROJECT_DIR$/src/google/overrideHashcode.java" />
-        <option value="$PROJECT_DIR$/src/google/toStringSource.java" />
-        <option value="$PROJECT_DIR$/src/ClassroomPractice/miniNumOfSwap.java" />
-        <option value="$PROJECT_DIR$/src/ClassroomPracticeOfSomebody/mini_num_of_swap.java" />
-        <option value="$PROJECT_DIR$/src/ClassroomPractice/relativeSort.java" />
-        <option value="$PROJECT_DIR$/src/ClassroomPractice/numOfReverse.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/单例饿汉模式.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/具体工厂模式.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/工厂模式.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/抽象工厂模式.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/建造者模式.java" />
+        <option value="$PROJECT_DIR$/src/ClassroomPractice/数组查询.java" />
+        <option value="$PROJECT_DIR$/src/ClassroomPractice/订单问题.java" />
+        <option value="$PROJECT_DIR$/src/ClassroomPractice/按照要求保留数组元素使得和最大.java" />
+        <option value="$PROJECT_DIR$/src/ClassroomPractice/如何花最少的钱购买蔬菜.java" />
+        <option value="$PROJECT_DIR$/src/ClassroomPractice/是否成环.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/代理模式.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/适配者模式_对象.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/适配器模式_类.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/适配器模式_motor.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/适配器模式_双向.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/原型模式.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/原型模式_带原型管理器.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/一_单例模式/单例饿汉模式.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/七_桥接模式/BagManage.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/九_外观模式/WySpecialtyFacade.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/十_享元模式/WzqGame.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/十_享元模式/FlyweightPattern.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/十一_组合模式/ShoppingTest.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/十二_模板方法模式/StudyAbroad.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/十二_模板方法模式/HookTemplateMethod.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/十三_策略模式/CrabCookingStrategy.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/十四_命令模式/CompositeCommandPattern.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/十五_责任链模式/LeaveApprovalTest.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/十六_状态模式/ScoreStateTest.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/十六_状态模式/ThreadStateTest.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/十六_状态模式/FlyweightStatePattern.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/十七_观察者模式/RMBrateTest.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/十七_观察者模式/CrudeOilFutures.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/十八_中介者模式/DatingPlatform.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/十八_中介者模式/MediatorPartern.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/十八_中介者模式/MediatorPattern.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/十九_迭代器模式/PictureIterator.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/二十一_备忘录模式/MementoPattern.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/二十一_备忘录模式/DatingGame.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/二十一_备忘录模式/Photo/PrototypeMemento.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/二十_访问者模式/VistorPattern.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/二十_访问者模式/VisitorProducer.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/二十二_解释器模式/InterpreterPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/一_单例模式/单例懒汉模式.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/六_适配器模式/适配器模式_双向.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/八_装饰模式/MorriganAensland.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/十四_命令模式/CookingCommand.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/十七_观察者模式/BellEventTest.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/十八_中介者模式/SimpleMediatorPattern.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/十九_迭代器模式/IteratorPattern.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/二十_访问者模式/VisitorPattern.java" />
       </list>
     </option>
   </component>
@@ -157,12 +403,14 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="170" />
-    <option name="y" value="114" />
-    <option name="width" value="1026" />
-    <option name="height" value="528" />
+    <option name="x" value="2296" />
+    <option name="y" value="25" />
+    <option name="width" value="931" />
+    <option name="height" value="1055" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -174,6 +422,32 @@
             <path>
               <item name="algorithm_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm_practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="二十二_解释器模式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="二十二_解释器模式" type="462c0819:PsiDirectoryNode" />
+              <item name="InterpreterPatternDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="algorithm_practice" type="b2602c69:ProjectViewProjectNode" />
@@ -195,7 +469,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/设计模式/二十_访问者模式" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -204,11 +478,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/设计模式/二十_访问者模式" />
+      <recent name="$PROJECT_DIR$/src/设计模式/二十一_备忘录模式" />
+      <recent name="$PROJECT_DIR$/src/设计模式/十九_迭代器模式" />
+      <recent name="$PROJECT_DIR$/src/设计模式/十四_命令模式" />
+      <recent name="$PROJECT_DIR$/src/设计模式/九_外观模式" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="google" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Jian_Zhi" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/设计模式/十九_迭代器模式/Picture" />
+      <recent name="$PROJECT_DIR$/src/设计模式/十三_策略模式" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -223,16 +505,74 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.numOfReverse">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.InterpreterPatternDemo">
+    <configuration name="DatingPlatform" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="设计模式.十八_中介者模式.DatingPlatform" />
       <module name="algorithm_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="设计模式.十八_中介者模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="miniNumOfSwap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClassroomPractice.miniNumOfSwap" />
+    <configuration name="InterpreterPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="设计模式.二十二_解释器模式.InterpreterPatternDemo" />
+      <module name="algorithm_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="设计模式.二十二_解释器模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MediatorPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="设计模式.十八_中介者模式.MediatorPattern" />
+      <module name="algorithm_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="设计模式.十八_中介者模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleMediatorPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="设计模式.十八_中介者模式.SimpleMediatorPattern" />
+      <module name="algorithm_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="设计模式.十八_中介者模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadStateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="设计模式.十六_状态模式.ThreadStateTest" />
+      <module name="algorithm_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="设计模式.十六_状态模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="链表区间逆序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassroomPractice.链表区间逆序" />
       <module name="algorithm_practice" />
       <extension name="coverage">
         <pattern>
@@ -244,21 +584,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mini_num_of_swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClassroomPracticeOfSomebody.mini_num_of_swap" />
-      <module name="algorithm_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ClassroomPracticeOfSomebody.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="numOfReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClassroomPractice.numOfReverse" />
+    <configuration name="非递归合并排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassroomPractice.非递归合并排序" />
       <module name="algorithm_practice" />
       <extension name="coverage">
         <pattern>
@@ -270,8 +597,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="relativeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClassroomPractice.relativeSort" />
+    <configuration name="数字重组问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassroomPractice.数字重组问题" />
+      <module name="algorithm_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassroomPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="距离问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassroomPractice.距离问题" />
+      <module name="algorithm_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassroomPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="和最大的连续降序字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassroomPractice.和最大的连续降序字符" />
+      <module name="algorithm_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassroomPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="有九个因素的数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassroomPractice.有九个因素的数" />
       <module name="algorithm_practice" />
       <extension name="coverage">
         <pattern>
@@ -285,11 +651,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.numOfReverse" />
-        <item itemvalue="Application.relativeSort" />
-        <item itemvalue="Application.mini_num_of_swap" />
-        <item itemvalue="Application.miniNumOfSwap" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.InterpreterPatternDemo" />
+        <item itemvalue="Application.SimpleMediatorPattern" />
+        <item itemvalue="Application.DatingPlatform" />
+        <item itemvalue="Application.MediatorPattern" />
+        <item itemvalue="Application.ThreadStateTest" />
       </list>
     </recent_temporary>
   </component>
@@ -316,6 +682,28 @@
       <workItem from="1569805565049" duration="19146000" />
       <workItem from="1570017010416" duration="593000" />
       <workItem from="1570022026266" duration="877000" />
+      <workItem from="1570153981688" duration="4692000" />
+      <workItem from="1570331351039" duration="176000" />
+      <workItem from="1571016309105" duration="29381000" />
+      <workItem from="1571103042128" duration="20670000" />
+      <workItem from="1571184983189" duration="20813000" />
+      <workItem from="1571221162126" duration="10873000" />
+      <workItem from="1571272799792" duration="2608000" />
+      <workItem from="1571275446755" duration="7350000" />
+      <workItem from="1571283146500" duration="9873000" />
+      <workItem from="1571491513992" duration="1320000" />
+      <workItem from="1571634894623" duration="1360000" />
+      <workItem from="1571729402105" duration="1181000" />
+      <workItem from="1572411527057" duration="593000" />
+      <workItem from="1572517611209" duration="11134000" />
+      <workItem from="1572965794639" duration="835000" />
+      <workItem from="1573090712890" duration="14965000" />
+      <workItem from="1574143105035" duration="2269000" />
+      <workItem from="1574302531402" duration="27187000" />
+      <workItem from="1574387148255" duration="7238000" />
+      <workItem from="1574573353747" duration="6000" />
+      <workItem from="1574588831671" duration="5489000" />
+      <workItem from="1574646680486" duration="12256000" />
     </task>
     <servers />
   </component>
@@ -328,7 +716,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103806000" />
+    <option name="totallyTimeSpent" value="296717000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -340,19 +728,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1366" height="704" extended-state="6" />
+    <frame x="1366" y="25" width="1861" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49741602" visible="true" weight="0.1828528" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4964739" visible="true" weight="0.16271374" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.502584" side_tool="true" weight="0.17097701" />
+      <window_info id="Favorites" order="6" sideWeight="0.5035261" side_tool="true" weight="0.2283508" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32945737" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23772609" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49960724" weight="0.23385014" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32864866" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924126" weight="0.35135135" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848256" weight="0.30227518" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" auto_hide="true" id="TODO" internal_type="SLIDING" order="6" type="SLIDING" weight="0.5052083" />
@@ -360,10 +749,10 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3268734" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5003928" side_tool="true" weight="0.39823008" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.20801033" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007587" side_tool="true" weight="0.2108014" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.2064865" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962063" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" weight="0.32960895" />
@@ -373,7 +762,7 @@
       <window_info anchor="right" id="Maven" order="8" weight="0.32928678" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49741602" visible="true" weight="0.17672414" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49741602" visible="true" weight="0.27082184" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -381,9 +770,9 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.502584" side_tool="true" weight="0.17097701" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32945737" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.14341085" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49960724" visible="true" weight="0.38630491" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924126" visible="true" weight="0.2345946" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848256" weight="0.3031359" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" auto_hide="true" id="TODO" internal_type="SLIDING" order="6" type="SLIDING" weight="0.5052083" />
@@ -391,10 +780,10 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3268734" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5003928" side_tool="true" weight="0.39823008" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.20801033" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007587" side_tool="true" weight="0.2108014" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.20731707" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962063" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" weight="0.32960895" />
@@ -410,319 +799,406 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ClassroomPractice/Sort_by_number_of_values.java</url>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/ClassroomPractice/按照数值个数排序.java</url>
           <line>56</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/google/快速排序.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithm_practice.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///usr/lib/java_jdk/jdk1.8.0_221/src.zip!/java/util/Scanner.java">
+    <entry file="file://$PROJECT_DIR$/src/ClassAfterOfAdvanceAlgorithm/对称字符串.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="1533" column="26" selection-start-line="1533" selection-start-column="12" selection-end-line="1533" selection-end-column="26" />
+        <state relative-caret-position="522">
+          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jian_Zhi/package-info.java" />
-    <entry file="file://$PROJECT_DIR$/src/Jian_Zhi/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Jian_Zhi/PrintLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/ClassAfterOfAdvanceAlgorithm/子矩阵问题.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="162">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jian_Zhi/findIntegerInTwoDimensionalArray.java">
+    <entry file="file://$PROJECT_DIR$/src/ClassAfterOfAdvanceAlgorithm/子矩阵的取值范围.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        <state relative-caret-position="99">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jian_Zhi/replaceSpace.java">
+    <entry file="file://$PROJECT_DIR$/src/ClassAfterOfAdvanceAlgorithm/固定和元素对.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        <state relative-caret-position="162">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/java_jdk/jdk1.8.0_221/src.zip!/java/util/Collections.java">
+    <entry file="file://$PROJECT_DIR$/src/ClassAfterOfAdvanceAlgorithm/区间k最小.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="81" column="13" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
+        <state relative-caret-position="162">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ClassAfterOfAdvanceAlgorithm/ClassAfterHomeworkOne.java">
+    <entry file="file://$PROJECT_DIR$/src/设计模式/一_单例模式/单例饿汉模式.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="185" column="3" selection-start-line="185" selection-start-column="3" selection-end-line="185" selection-end-column="3" />
+        <state relative-caret-position="405">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/java_jdk/jdk1.8.0_221/src.zip!/java/util/Comparator.java">
+    <entry file="file://$PROJECT_DIR$/src/google/全排列.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1280">
-          <caret line="214" column="47" lean-forward="true" selection-start-line="214" selection-start-column="47" selection-end-line="214" selection-end-column="49" />
+        <state relative-caret-position="126">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/google/TreeMapOverrideCompactor.java">
+    <entry file="file://$PROJECT_DIR$/src/设计模式/八_装饰模式/Morrigan0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/八_装饰模式/Morrigan1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/八_装饰模式/Morrigan2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar:///usr/lib/java_jdk/jdk1.8.0_221/src.zip!/javax/swing/ImageIcon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="227">
+          <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/十四_命令模式/CompositeCommandPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/十七_观察者模式/CrudeOilFutures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/google/TreeSetOverrideCompactor.java">
+    <entry file="file://$PROJECT_DIR$/src/设计模式/二十一_备忘录模式/DatingGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/java_jdk/jdk1.8.0_221/src.zip!/java/util/NavigableMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="236" column="28" selection-start-line="236" selection-start-column="28" selection-end-line="236" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/java_jdk/jdk1.8.0_221/src.zip!/java/util/TreeSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="453" column="36" lean-forward="true" selection-start-line="453" selection-start-column="36" selection-end-line="453" selection-end-column="36" />
-          <folding>
-            <element signature="e#10673#10674#0" expanded="true" />
-            <element signature="e#10716#10717#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/google/sortedMap2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="30" column="50" lean-forward="true" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="50" />
+        <state relative-caret-position="1224">
+          <caret line="73" column="33" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/java_jdk/jdk1.8.0_221/src.zip!/java/util/TreeMap.java">
+    <entry file="file://$PROJECT_DIR$/src/设计模式/二十一_备忘录模式/Photo/PrototypeMemento.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="1013" column="16" selection-start-line="1013" selection-start-column="16" selection-end-line="1013" selection-end-column="16" />
-          <folding>
-            <element signature="e#6596#6597#0" expanded="true" />
-            <element signature="e#6640#6641#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/google/sortedMap1.java">
+    <entry file="file://$PROJECT_DIR$/src/设计模式/一_单例模式/单例懒汉模式.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        <state relative-caret-position="459">
+          <caret line="28" column="85" selection-start-line="28" selection-start-column="85" selection-end-line="28" selection-end-column="85" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/java_jdk/jdk1.8.0_221/src.zip!/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/src/设计模式/二_原型模式/原型模式.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="608" column="24" selection-start-line="608" selection-start-column="11" selection-end-line="608" selection-end-column="24" />
+        <state relative-caret-position="648">
+          <caret line="45" column="39" lean-forward="true" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/java_jdk/jdk1.8.0_221/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="445" column="37" lean-forward="true" selection-start-line="445" selection-start-column="37" selection-end-line="445" selection-end-column="37" />
-          <folding>
-            <element signature="e#35486#35487#0" expanded="true" />
-            <element signature="e#35532#35533#0" expanded="true" />
-            <element signature="e#35824#35825#0" expanded="true" />
-            <element signature="e#35852#35853#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/java_jdk/jdk1.8.0_221/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="530" column="18" selection-start-line="530" selection-start-column="18" selection-end-line="530" selection-end-column="18" />
-          <folding>
-            <element signature="e#21068#21069#0" expanded="true" />
-            <element signature="e#21142#21143#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/java_jdk/jdk1.8.0_221/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/java_jdk/jdk1.8.0_221/src.zip!/java/util/Objects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="97" column="33" selection-start-line="97" selection-start-column="33" selection-end-line="97" selection-end-column="33" />
-          <folding>
-            <element signature="e#2786#2787#0" expanded="true" />
-            <element signature="e#2837#2838#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/java_jdk/jdk1.8.0_221/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="297" column="9" lean-forward="true" selection-start-line="297" selection-start-column="9" selection-end-line="297" selection-end-column="9" />
-          <folding>
-            <element signature="e#12846#12847#0" expanded="true" />
-            <element signature="e#12924#12925#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/google/overrideHashcode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#230#265#0" />
-            <element signature="e#1526#1527#0" expanded="true" />
-            <element signature="e#1552#1553#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/google/toStringSource.java">
+    <entry file="file://$PROJECT_DIR$/src/设计模式/二_原型模式/原型模式_带原型管理器.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/java_jdk/jdk1.8.0_221/src.zip!/java/util/ArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/设计模式/三_工厂与抽象工厂模式/工厂模式.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="583" column="21" lean-forward="true" selection-start-line="583" selection-start-column="21" selection-end-line="583" selection-end-column="21" />
-          <folding>
-            <element signature="e#31007#31008#0" expanded="true" />
-            <element signature="e#31039#31040#0" expanded="true" />
-            <element signature="e#31382#31383#0" expanded="true" />
-            <element signature="e#31427#31428#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="486">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/java_jdk/jdk1.8.0_221/src.zip!/java/lang/System.java">
+    <entry file="file://$PROJECT_DIR$/src/设计模式/三_工厂与抽象工厂模式/抽象工厂模式.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="492" column="37" lean-forward="true" selection-start-line="492" selection-start-column="37" selection-end-line="492" selection-end-column="37" />
+        <state relative-caret-position="306">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ClassroomPracticeOfSomebody/SortByNumberOfValues.java">
+    <entry file="file://$PROJECT_DIR$/src/设计模式/四_建造者模式/建造者模式.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="802">
-          <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="29" />
+        <state relative-caret-position="1008">
+          <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/java_jdk/jdk1.8.0_221/src.zip!/java/util/Arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/设计模式/五_代理模式/代理模式.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="3799" column="23" lean-forward="true" selection-start-line="3799" selection-start-column="23" selection-end-line="3799" selection-end-column="23" />
-          <folding>
-            <element signature="e#177013#177014#0" expanded="true" />
-            <element signature="e#177054#177055#0" expanded="true" />
-            <element signature="e#177353#177354#0" expanded="true" />
-            <element signature="e#177410#177411#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ClassroomPracticeOfSomebody/mini_num_of_swap.java" />
-    <entry file="file://$PROJECT_DIR$/src/ClassroomPracticeOfSomebody/one.java" />
-    <entry file="file://$PROJECT_DIR$/src/ClassroomPractice/miniNumOfSwap.java">
+    <entry file="file://$PROJECT_DIR$/src/设计模式/七_桥接模式/BagManage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="14" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="36" />
+        <state relative-caret-position="18">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#459#468#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ClassroomPracticeOfSomebody/relative_sort.java">
+    <entry file="file://$PROJECT_DIR$/src/设计模式/八_装饰模式/MorriganAensland.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ClassroomPractice/Sort_by_number_of_values.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="47" column="53" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="53" />
-          <folding>
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#833#834#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ClassroomPractice/relativeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" lean-forward="true" selection-start-column="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ClassroomPractice/numOfReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        <state relative-caret-position="108">
+          <caret line="15" column="108" selection-start-line="15" selection-start-column="108" selection-end-line="15" selection-end-column="108" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ClassroomPracticeOfSomebody/numOfReverse.java">
+    <entry file="file://$PROJECT_DIR$/src/设计模式/九_外观模式/WySpecialtyFacade.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        <state relative-caret-position="99">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/设计模式/十_享元模式/WzqGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        <state relative-caret-position="9">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/十_享元模式/FlyweightPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-369">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/十一_组合模式/ShoppingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="87" column="30" lean-forward="true" selection-start-line="87" selection-start-column="30" selection-end-line="87" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/六_适配器模式/适配器模式_类.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/六_适配器模式/适配器模式_motor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding>
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/六_适配器模式/适配者模式_对象.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/六_适配器模式/适配器模式_双向.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="23" selection-start-line="23" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/十二_模板方法模式/StudyAbroadProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/十二_模板方法模式/HookTemplateMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/十三_策略模式/CrabCookingStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="747">
+          <caret line="93" column="43" lean-forward="true" selection-start-line="93" selection-start-column="43" selection-end-line="93" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/十六_状态模式/ScoreStateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/十六_状态模式/FlyweightStatePattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/十四_命令模式/CookingCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="51" column="39" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/十五_责任链模式/LeaveApprovalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/十六_状态模式/ThreadStateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/十七_观察者模式/RMBrateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/十七_观察者模式/BellEventTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="65" column="42" lean-forward="true" selection-start-line="65" selection-start-column="42" selection-end-line="65" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/十八_中介者模式/DatingPlatform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="61" lean-forward="true" selection-start-line="32" selection-start-column="61" selection-end-line="32" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/十八_中介者模式/MediatorPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/十八_中介者模式/SimpleMediatorPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="55" column="85" selection-start-line="55" selection-start-column="85" selection-end-line="55" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/十九_迭代器模式/PictureIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="143" column="37" selection-start-line="143" selection-start-column="19" selection-end-line="143" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/十九_迭代器模式/IteratorPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-387">
+          <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/二十_访问者模式/VisitorProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/二十_访问者模式/VisitorPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="88" column="54" selection-start-line="88" selection-start-column="54" selection-end-line="88" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/二十一_备忘录模式/MementoPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/二十二_解释器模式/InterpreterPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
